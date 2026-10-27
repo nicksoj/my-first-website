@@ -1,0 +1,47 @@
+body {
+    background-image: url(Technology.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+}
+nav {
+    color:#FACC15;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color:#93C5FD;
+    font-size: 40px;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+p {
+    color:white;
+    text-align: center;
+
+}
+form {
+    text-align: center;
+    color:white;
+}
+:-moz-submit-invalid {
+    color: blue;
+}
+h2 {
+    color: brown;
+    text-align: center;
+}
+h3 {
+    color: #93C5FD;
+    text-align: center;
+}
+li {
+    color: white;
+    text-align: center;
+
+}
